@@ -9,5 +9,5 @@
 7685230.4907/1024/1024 = 7.32920693464
 
 7.32920693464 = 255^3 * 3840 * 2160 * 60 / 1024^5 
-
-= ~7.33 petabits of storage each second if at 4K resolution with 32-bit color and 60 FPS
+7.32920693464 / 2 = 3.66460346732
+= ~3.66 petabits of storage each second if at 4K resolution with 32-bit color and 60 FPS
